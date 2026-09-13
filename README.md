@@ -18,4 +18,4 @@ Python (pandas), PostgreSQL, Tableau Public
 ## 🔗 Interactive Dashboard
 [View live dashboard on Tableau Public](https://public.tableau.com/app/profile/ravindu.lakruwan/viz/CSEStockPerformance/Dashboard2)
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Screenshot (469).png)
